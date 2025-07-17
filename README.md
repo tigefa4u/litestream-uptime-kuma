@@ -3,7 +3,7 @@
 
 Run uptime kuma with persisten sqlite database via [litestream](https://litestream.io)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UfDasl?referralCode=373)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/8DYdIv?referralCode=tigefa)
 [![Docker Image Build](https://github.com/tigefa4u/litestream-uptime-kuma/actions/workflows/build.yml/badge.svg)](https://github.com/tigefa4u/litestream-uptime-kuma/actions/workflows/build.yml)
 
 ## Usage
