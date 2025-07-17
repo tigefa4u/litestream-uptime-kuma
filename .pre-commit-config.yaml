@@ -9,3 +9,5 @@ ci:
     autoupdate_schedule: weekly
     skip: []
     submodules: false
+repos:
+-   repo: local
